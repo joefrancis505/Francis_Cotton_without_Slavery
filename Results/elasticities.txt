@@ -1,0 +1,55 @@
+--- Running Analyses ---
+
+--- Analyzing Model for UK Imports (US Cotton) ---
+Formula: log_us_m ~ log_us_m_lag1 + log_us_p_lag1 + time_trend 
+Sample: N = 40 
+
+--- Coefficients with Newey-West (HAC) Standard Errors ---
+
+t test of coefficients:
+
+                Estimate Std. Error t value  Pr(>|t|)    
+(Intercept)    4.0372574  0.8013132  5.0383 1.336e-05 ***
+log_us_m_lag1  0.1441664  0.1364789  1.0563    0.2979    
+log_us_p_lag1 -0.0216337  0.1469626 -0.1472    0.8838    
+time_trend     0.0479345  0.0080526  5.9527 8.038e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+--- Price Elasticity (Coefficient on log_us_p_lag1 ) ---
+Estimate: -0.022 
+Std. Error: 0.147 
+p-value: 0.884 
+
+--- Analyzing Model for UK Imports (Indian Cotton) ---
+Formula: log_india_m ~ log_india_m_lag1 + log_india_p_lag1 + time_trend 
+Sample: N = 40 
+
+--- Coefficients with Newey-West (HAC) Standard Errors ---
+
+t test of coefficients:
+
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      1.6255566  0.5520269  2.9447 0.005633 ** 
+log_india_m_lag1 0.1848835  0.1142070  1.6188 0.114210    
+log_india_p_lag1 0.1660120  0.2882427  0.5759 0.568236    
+time_trend       0.0632607  0.0095048  6.6556 9.33e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+--- Price Elasticity (Coefficient on log_india_p_lag1 ) ---
+Estimate: 0.166 
+Std. Error: 0.288 
+p-value: 0.568 
+
+======================================================
+SUMMARY OF ELASTICITY ESTIMATES (from lag price coeff)
+Analysis includes years 1821-1860 (N=40)
+======================================================
+Series                      Elasticity   Std. Error      p-value     N
+-------------------------------------------------------------------- 
+UK Imports (US Cotton)          -0.022        0.147        0.884    40
+UK Imports (Indian Cotton)        0.166        0.288        0.568    40
+-------------------------------------------------------------------- 

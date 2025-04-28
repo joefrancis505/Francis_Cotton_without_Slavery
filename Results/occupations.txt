@@ -1,0 +1,534 @@
+
+
+Table: Occupational Distribution - All Cotton Belt (occupations) - Raw Counts
+
+|section  |occupation                           |     white| white_hispanic| white_nonhispanic|     black| other| native_white| immigrant_white|     total|
+|:--------|:------------------------------------|---------:|--------------:|-----------------:|---------:|-----:|------------:|---------------:|---------:|
+|Farm     |Farm owners                          |   773,124|          2,207|           770,917|   151,059| 1,199|      751,502|          21,622|   925,382|
+|Farm     |Farm tenants                         |   494,651|          1,410|           493,241|   546,477|     1|      480,676|          13,975| 1,041,129|
+|Farm     |Farm foremen                         |       538|              4|               534|       105|     0|          515|              23|       643|
+|Farm     |Farm laborers (family)               |   713,367|          2,751|           710,616|   751,547| 1,168|      705,575|           7,792| 1,466,082|
+|Farm     |Farm laborers (other)                |   170,303|          4,178|           166,125|   416,753|   501|      162,699|           7,604|   587,557|
+|Farm     |Subtotal                             | 2,151,983|         10,550|         2,141,433| 1,865,941| 2,869|    2,100,967|          51,016| 4,020,793|
+|Non-farm |Professional and technical           |   121,588|            565|           121,023|    27,710|    28|      116,354|           5,234|   149,326|
+|Non-farm |Managers, officials, and proprietors |   156,630|            929|           155,701|    10,882|   270|      138,156|          18,474|   167,782|
+|Non-farm |Clerical and kindred                 |    65,489|            470|            65,019|     4,613|    10|       62,924|           2,565|    70,112|
+|Non-farm |Sales workers                        |   108,732|            794|           107,938|     5,068|    61|      101,295|           7,437|   113,861|
+|Non-farm |Craftsmen                            |   207,642|          1,386|           206,256|    52,243|    47|      187,999|          19,643|   259,932|
+|Non-farm |Operatives                           |   239,061|          1,628|           237,433|   105,752|   947|      228,017|          11,044|   345,760|
+|Non-farm |Household servants                   |    63,119|            805|            62,314|   215,548|    85|       60,035|           3,084|   278,752|
+|Non-farm |Other service workers                |    57,515|            825|            56,690|   158,816|   143|       51,611|           5,904|   216,474|
+|Non-farm |Laborers                             |   237,856|          6,620|           231,236|   468,128|   404|      222,410|          15,446|   706,388|
+|Non-farm |Subtotal                             | 1,257,632|         14,022|         1,243,610| 1,048,760| 1,995|    1,168,801|          88,831| 2,308,387|
+|Total    |Total                                | 3,409,615|         24,572|         3,385,043| 2,914,701| 4,864|    3,269,768|         139,847| 6,329,180|
+
+
+
+Table: Within-Group Percentages - All Cotton Belt (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  22.7%|           9.0%|             22.8%|   5.2%|  24.7%|        23.0%|           15.5%|
+|Farm     |Farm tenants                         |  14.5%|           5.7%|             14.6%|  18.7%|   0.0%|        14.7%|           10.0%|
+|Farm     |Farm foremen                         |   0.0%|           0.0%|              0.0%|   0.0%|   0.0%|         0.0%|            0.0%|
+|Farm     |Farm laborers (family)               |  20.9%|          11.2%|             21.0%|  25.8%|  24.0%|        21.6%|            5.6%|
+|Farm     |Farm laborers (other)                |   5.0%|          17.0%|              4.9%|  14.3%|  10.3%|         5.0%|            5.4%|
+|Farm     |Subtotal                             |  63.1%|          42.9%|             63.3%|  64.0%|  59.0%|        64.3%|           36.5%|
+|Non-farm |Professional and technical           |   3.6%|           2.3%|              3.6%|   1.0%|   0.6%|         3.6%|            3.7%|
+|Non-farm |Managers, officials, and proprietors |   4.6%|           3.8%|              4.6%|   0.4%|   5.6%|         4.2%|           13.2%|
+|Non-farm |Clerical and kindred                 |   1.9%|           1.9%|              1.9%|   0.2%|   0.2%|         1.9%|            1.8%|
+|Non-farm |Sales workers                        |   3.2%|           3.2%|              3.2%|   0.2%|   1.3%|         3.1%|            5.3%|
+|Non-farm |Craftsmen                            |   6.1%|           5.6%|              6.1%|   1.8%|   1.0%|         5.7%|           14.0%|
+|Non-farm |Operatives                           |   7.0%|           6.6%|              7.0%|   3.6%|  19.5%|         7.0%|            7.9%|
+|Non-farm |Household servants                   |   1.9%|           3.3%|              1.8%|   7.4%|   1.7%|         1.8%|            2.2%|
+|Non-farm |Other service workers                |   1.7%|           3.4%|              1.7%|   5.4%|   2.9%|         1.6%|            4.2%|
+|Non-farm |Laborers                             |   7.0%|          26.9%|              6.8%|  16.1%|   8.3%|         6.8%|           11.0%|
+|Non-farm |Subtotal                             |  36.9%|          57.1%|             36.7%|  36.0%|  41.0%|        35.7%|           63.5%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - All Cotton Belt (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          | 12.2%|           0.0%|             12.2%|  2.4%|  0.0%|        11.9%|            0.3%|  14.6%|
+|Farm     |Farm tenants                         |  7.8%|           0.0%|              7.8%|  8.6%|  0.0%|         7.6%|            0.2%|  16.4%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               | 11.3%|           0.0%|             11.2%| 11.9%|  0.0%|        11.1%|            0.1%|  23.2%|
+|Farm     |Farm laborers (other)                |  2.7%|           0.1%|              2.6%|  6.6%|  0.0%|         2.6%|            0.1%|   9.3%|
+|Farm     |Subtotal                             | 34.0%|           0.2%|             33.8%| 29.5%|  0.0%|        33.2%|            0.8%|  63.5%|
+|Non-farm |Professional and technical           |  1.9%|           0.0%|              1.9%|  0.4%|  0.0%|         1.8%|            0.1%|   2.4%|
+|Non-farm |Managers, officials, and proprietors |  2.5%|           0.0%|              2.5%|  0.2%|  0.0%|         2.2%|            0.3%|   2.7%|
+|Non-farm |Clerical and kindred                 |  1.0%|           0.0%|              1.0%|  0.1%|  0.0%|         1.0%|            0.0%|   1.1%|
+|Non-farm |Sales workers                        |  1.7%|           0.0%|              1.7%|  0.1%|  0.0%|         1.6%|            0.1%|   1.8%|
+|Non-farm |Craftsmen                            |  3.3%|           0.0%|              3.3%|  0.8%|  0.0%|         3.0%|            0.3%|   4.1%|
+|Non-farm |Operatives                           |  3.8%|           0.0%|              3.8%|  1.7%|  0.0%|         3.6%|            0.2%|   5.5%|
+|Non-farm |Household servants                   |  1.0%|           0.0%|              1.0%|  3.4%|  0.0%|         0.9%|            0.0%|   4.4%|
+|Non-farm |Other service workers                |  0.9%|           0.0%|              0.9%|  2.5%|  0.0%|         0.8%|            0.1%|   3.4%|
+|Non-farm |Laborers                             |  3.8%|           0.1%|              3.7%|  7.4%|  0.0%|         3.5%|            0.2%|  11.2%|
+|Non-farm |Subtotal                             | 19.9%|           0.2%|             19.6%| 16.6%|  0.0%|        18.5%|            1.4%|  36.5%|
+|Total    |Total                                | 53.9%|           0.4%|             53.5%| 46.1%|  0.1%|        51.7%|            2.2%| 100.0%|
+
+
+
+========================================================================================================================
+
+
+
+
+Table: Occupational Distribution - Piedmont (occupations) - Raw Counts
+
+|section  |occupation                           |   white| white_hispanic| white_nonhispanic|   black| other| native_white| immigrant_white|     total|
+|:--------|:------------------------------------|-------:|--------------:|-----------------:|-------:|-----:|------------:|---------------:|---------:|
+|Farm     |Farm owners                          | 122,980|             15|           122,965|  21,649|    19|      122,257|             723|   144,648|
+|Farm     |Farm tenants                         |  96,492|             11|            96,481| 103,853|     0|       95,918|             574|   200,345|
+|Farm     |Farm foremen                         |      70|              0|                70|       9|     0|           70|               0|        79|
+|Farm     |Farm laborers (family)               | 134,934|             14|           134,920| 148,979|     3|      134,778|             156|   283,916|
+|Farm     |Farm laborers (other)                |  28,141|              2|            28,139|  90,315|     2|       28,055|              86|   118,458|
+|Farm     |Subtotal                             | 382,617|             42|           382,575| 364,805|    24|      381,078|           1,539|   747,446|
+|Non-farm |Professional and technical           |  20,552|             24|            20,528|   5,430|     2|       20,096|             456|    25,984|
+|Non-farm |Managers, officials, and proprietors |  27,165|             17|            27,148|   2,110|     0|       25,745|           1,420|    29,275|
+|Non-farm |Clerical and kindred                 |  11,684|             12|            11,672|   1,005|     3|       11,454|             230|    12,692|
+|Non-farm |Sales workers                        |  18,648|             21|            18,627|     942|     9|       18,015|             633|    19,599|
+|Non-farm |Craftsmen                            |  38,723|             38|            38,685|  11,866|     0|       37,252|           1,471|    50,589|
+|Non-farm |Operatives                           |  81,631|             41|            81,590|  20,645|   137|       80,946|             685|   102,413|
+|Non-farm |Household servants                   |  10,438|              5|            10,433|  50,705|     6|       10,329|             109|    61,149|
+|Non-farm |Other service workers                |   9,804|              3|             9,801|  36,314|     5|        9,538|             266|    46,123|
+|Non-farm |Laborers                             |  26,081|             12|            26,069|  84,547|     0|       25,837|             244|   110,628|
+|Non-farm |Subtotal                             | 244,726|            173|           244,553| 213,564|   162|      239,212|           5,514|   458,452|
+|Total    |Total                                | 627,343|            215|           627,128| 578,369|   186|      620,290|           7,053| 1,205,898|
+
+
+
+Table: Within-Group Percentages - Piedmont (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  19.6%|           7.0%|             19.6%|   3.7%|  10.2%|        19.7%|           10.3%|
+|Farm     |Farm tenants                         |  15.4%|           5.1%|             15.4%|  18.0%|   0.0%|        15.5%|            8.1%|
+|Farm     |Farm foremen                         |   0.0%|           0.0%|              0.0%|   0.0%|   0.0%|         0.0%|            0.0%|
+|Farm     |Farm laborers (family)               |  21.5%|           6.5%|             21.5%|  25.8%|   1.6%|        21.7%|            2.2%|
+|Farm     |Farm laborers (other)                |   4.5%|           0.9%|              4.5%|  15.6%|   1.1%|         4.5%|            1.2%|
+|Farm     |Subtotal                             |  61.0%|          19.5%|             61.0%|  63.1%|  12.9%|        61.4%|           21.8%|
+|Non-farm |Professional and technical           |   3.3%|          11.2%|              3.3%|   0.9%|   1.1%|         3.2%|            6.5%|
+|Non-farm |Managers, officials, and proprietors |   4.3%|           7.9%|              4.3%|   0.4%|   0.0%|         4.2%|           20.1%|
+|Non-farm |Clerical and kindred                 |   1.9%|           5.6%|              1.9%|   0.2%|   1.6%|         1.8%|            3.3%|
+|Non-farm |Sales workers                        |   3.0%|           9.8%|              3.0%|   0.2%|   4.8%|         2.9%|            9.0%|
+|Non-farm |Craftsmen                            |   6.2%|          17.7%|              6.2%|   2.1%|   0.0%|         6.0%|           20.9%|
+|Non-farm |Operatives                           |  13.0%|          19.1%|             13.0%|   3.6%|  73.7%|        13.0%|            9.7%|
+|Non-farm |Household servants                   |   1.7%|           2.3%|              1.7%|   8.8%|   3.2%|         1.7%|            1.5%|
+|Non-farm |Other service workers                |   1.6%|           1.4%|              1.6%|   6.3%|   2.7%|         1.5%|            3.8%|
+|Non-farm |Laborers                             |   4.2%|           5.6%|              4.2%|  14.6%|   0.0%|         4.2%|            3.5%|
+|Non-farm |Subtotal                             |  39.0%|          80.5%|             39.0%|  36.9%|  87.1%|        38.6%|           78.2%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - Piedmont (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          | 10.2%|           0.0%|             10.2%|  1.8%|  0.0%|        10.1%|            0.1%|  12.0%|
+|Farm     |Farm tenants                         |  8.0%|           0.0%|              8.0%|  8.6%|  0.0%|         8.0%|            0.0%|  16.6%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               | 11.2%|           0.0%|             11.2%| 12.4%|  0.0%|        11.2%|            0.0%|  23.5%|
+|Farm     |Farm laborers (other)                |  2.3%|           0.0%|              2.3%|  7.5%|  0.0%|         2.3%|            0.0%|   9.8%|
+|Farm     |Subtotal                             | 31.7%|           0.0%|             31.7%| 30.3%|  0.0%|        31.6%|            0.1%|  62.0%|
+|Non-farm |Professional and technical           |  1.7%|           0.0%|              1.7%|  0.5%|  0.0%|         1.7%|            0.0%|   2.2%|
+|Non-farm |Managers, officials, and proprietors |  2.3%|           0.0%|              2.3%|  0.2%|  0.0%|         2.1%|            0.1%|   2.4%|
+|Non-farm |Clerical and kindred                 |  1.0%|           0.0%|              1.0%|  0.1%|  0.0%|         0.9%|            0.0%|   1.1%|
+|Non-farm |Sales workers                        |  1.5%|           0.0%|              1.5%|  0.1%|  0.0%|         1.5%|            0.1%|   1.6%|
+|Non-farm |Craftsmen                            |  3.2%|           0.0%|              3.2%|  1.0%|  0.0%|         3.1%|            0.1%|   4.2%|
+|Non-farm |Operatives                           |  6.8%|           0.0%|              6.8%|  1.7%|  0.0%|         6.7%|            0.1%|   8.5%|
+|Non-farm |Household servants                   |  0.9%|           0.0%|              0.9%|  4.2%|  0.0%|         0.9%|            0.0%|   5.1%|
+|Non-farm |Other service workers                |  0.8%|           0.0%|              0.8%|  3.0%|  0.0%|         0.8%|            0.0%|   3.8%|
+|Non-farm |Laborers                             |  2.2%|           0.0%|              2.2%|  7.0%|  0.0%|         2.1%|            0.0%|   9.2%|
+|Non-farm |Subtotal                             | 20.3%|           0.0%|             20.3%| 17.7%|  0.0%|        19.8%|            0.5%|  38.0%|
+|Total    |Total                                | 52.0%|           0.0%|             52.0%| 48.0%|  0.0%|        51.4%|            0.6%| 100.0%|
+
+
+
+========================================================================================================================
+
+
+
+
+Table: Occupational Distribution - Coastal Plain (occupations) - Raw Counts
+
+|section  |occupation                           |   white| white_hispanic| white_nonhispanic|     black| other| native_white| immigrant_white|     total|
+|:--------|:------------------------------------|-------:|--------------:|-----------------:|---------:|-----:|------------:|---------------:|---------:|
+|Farm     |Farm owners                          | 169,863|             75|           169,788|    64,547|   831|      168,446|           1,417|   235,241|
+|Farm     |Farm tenants                         |  78,519|             35|            78,484|   209,745|     0|       77,841|             678|   288,264|
+|Farm     |Farm foremen                         |     181|              0|               181|        47|     0|          174|               7|       228|
+|Farm     |Farm laborers (family)               | 146,210|             48|           146,162|   315,021| 1,000|      146,008|             202|   462,231|
+|Farm     |Farm laborers (other)                |  33,445|             20|            33,425|   182,383|   415|       33,248|             197|   216,243|
+|Farm     |Subtotal                             | 428,218|            178|           428,040|   771,743| 2,246|      425,717|           2,501| 1,202,207|
+|Non-farm |Professional and technical           |  25,354|             76|            25,278|     9,705|    12|       24,513|             841|    35,071|
+|Non-farm |Managers, officials, and proprietors |  35,553|            188|            35,365|     4,211|    37|       31,666|           3,887|    39,801|
+|Non-farm |Clerical and kindred                 |  14,183|             92|            14,091|     1,783|     2|       13,717|             466|    15,968|
+|Non-farm |Sales workers                        |  23,429|             99|            23,330|     2,063|    13|       22,086|           1,343|    25,505|
+|Non-farm |Craftsmen                            |  39,890|            185|            39,705|    20,208|    13|       36,750|           3,140|    60,111|
+|Non-farm |Operatives                           |  40,241|            193|            40,048|    34,803|   246|       38,920|           1,321|    75,290|
+|Non-farm |Household servants                   |  13,397|             30|            13,367|    71,111|    28|       13,055|             342|    84,536|
+|Non-farm |Other service workers                |  11,113|             69|            11,044|    50,118|    14|       10,244|             869|    61,245|
+|Non-farm |Laborers                             |  55,834|            263|            55,571|   196,950|   245|       54,185|           1,649|   253,029|
+|Non-farm |Subtotal                             | 258,994|          1,195|           257,799|   390,952|   610|      245,136|          13,858|   650,556|
+|Total    |Total                                | 687,212|          1,373|           685,839| 1,162,695| 2,856|      670,853|          16,359| 1,852,763|
+
+
+
+Table: Within-Group Percentages - Coastal Plain (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  24.7%|           5.5%|             24.8%|   5.6%|  29.1%|        25.1%|            8.7%|
+|Farm     |Farm tenants                         |  11.4%|           2.5%|             11.4%|  18.0%|   0.0%|        11.6%|            4.1%|
+|Farm     |Farm foremen                         |   0.0%|           0.0%|              0.0%|   0.0%|   0.0%|         0.0%|            0.0%|
+|Farm     |Farm laborers (family)               |  21.3%|           3.5%|             21.3%|  27.1%|  35.0%|        21.8%|            1.2%|
+|Farm     |Farm laborers (other)                |   4.9%|           1.5%|              4.9%|  15.7%|  14.5%|         5.0%|            1.2%|
+|Farm     |Subtotal                             |  62.3%|          13.0%|             62.4%|  66.4%|  78.6%|        63.5%|           15.3%|
+|Non-farm |Professional and technical           |   3.7%|           5.5%|              3.7%|   0.8%|   0.4%|         3.7%|            5.1%|
+|Non-farm |Managers, officials, and proprietors |   5.2%|          13.7%|              5.2%|   0.4%|   1.3%|         4.7%|           23.8%|
+|Non-farm |Clerical and kindred                 |   2.1%|           6.7%|              2.1%|   0.2%|   0.1%|         2.0%|            2.8%|
+|Non-farm |Sales workers                        |   3.4%|           7.2%|              3.4%|   0.2%|   0.5%|         3.3%|            8.2%|
+|Non-farm |Craftsmen                            |   5.8%|          13.5%|              5.8%|   1.7%|   0.5%|         5.5%|           19.2%|
+|Non-farm |Operatives                           |   5.9%|          14.1%|              5.8%|   3.0%|   8.6%|         5.8%|            8.1%|
+|Non-farm |Household servants                   |   1.9%|           2.2%|              1.9%|   6.1%|   1.0%|         1.9%|            2.1%|
+|Non-farm |Other service workers                |   1.6%|           5.0%|              1.6%|   4.3%|   0.5%|         1.5%|            5.3%|
+|Non-farm |Laborers                             |   8.1%|          19.2%|              8.1%|  16.9%|   8.6%|         8.1%|           10.1%|
+|Non-farm |Subtotal                             |  37.7%|          87.0%|             37.6%|  33.6%|  21.4%|        36.5%|           84.7%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - Coastal Plain (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          |  9.2%|           0.0%|              9.2%|  3.5%|  0.0%|         9.1%|            0.1%|  12.7%|
+|Farm     |Farm tenants                         |  4.2%|           0.0%|              4.2%| 11.3%|  0.0%|         4.2%|            0.0%|  15.6%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               |  7.9%|           0.0%|              7.9%| 17.0%|  0.1%|         7.9%|            0.0%|  24.9%|
+|Farm     |Farm laborers (other)                |  1.8%|           0.0%|              1.8%|  9.8%|  0.0%|         1.8%|            0.0%|  11.7%|
+|Farm     |Subtotal                             | 23.1%|           0.0%|             23.1%| 41.7%|  0.1%|        23.0%|            0.1%|  64.9%|
+|Non-farm |Professional and technical           |  1.4%|           0.0%|              1.4%|  0.5%|  0.0%|         1.3%|            0.0%|   1.9%|
+|Non-farm |Managers, officials, and proprietors |  1.9%|           0.0%|              1.9%|  0.2%|  0.0%|         1.7%|            0.2%|   2.1%|
+|Non-farm |Clerical and kindred                 |  0.8%|           0.0%|              0.8%|  0.1%|  0.0%|         0.7%|            0.0%|   0.9%|
+|Non-farm |Sales workers                        |  1.3%|           0.0%|              1.3%|  0.1%|  0.0%|         1.2%|            0.1%|   1.4%|
+|Non-farm |Craftsmen                            |  2.2%|           0.0%|              2.1%|  1.1%|  0.0%|         2.0%|            0.2%|   3.2%|
+|Non-farm |Operatives                           |  2.2%|           0.0%|              2.2%|  1.9%|  0.0%|         2.1%|            0.1%|   4.1%|
+|Non-farm |Household servants                   |  0.7%|           0.0%|              0.7%|  3.8%|  0.0%|         0.7%|            0.0%|   4.6%|
+|Non-farm |Other service workers                |  0.6%|           0.0%|              0.6%|  2.7%|  0.0%|         0.6%|            0.0%|   3.3%|
+|Non-farm |Laborers                             |  3.0%|           0.0%|              3.0%| 10.6%|  0.0%|         2.9%|            0.1%|  13.7%|
+|Non-farm |Subtotal                             | 14.0%|           0.1%|             13.9%| 21.1%|  0.0%|        13.2%|            0.7%|  35.1%|
+|Total    |Total                                | 37.1%|           0.1%|             37.0%| 62.8%|  0.2%|        36.2%|            0.9%| 100.0%|
+
+
+
+========================================================================================================================
+
+
+
+
+Table: Occupational Distribution - River Bottom (occupations) - Raw Counts
+
+|section  |occupation                           |   white| white_hispanic| white_nonhispanic|   black| other| native_white| immigrant_white|   total|
+|:--------|:------------------------------------|-------:|--------------:|-----------------:|-------:|-----:|------------:|---------------:|-------:|
+|Farm     |Farm owners                          |  23,104|             81|            23,023|  10,618|    37|       21,978|           1,126|  33,759|
+|Farm     |Farm tenants                         |  19,432|             62|            19,370|  83,554|     0|       18,487|             945| 102,986|
+|Farm     |Farm foremen                         |     142|              1|               141|      39|     0|          134|               8|     181|
+|Farm     |Farm laborers (family)               |  22,159|             59|            22,100|  90,518|    27|       21,690|             469| 112,704|
+|Farm     |Farm laborers (other)                |  13,905|             64|            13,841|  68,347|    32|       10,451|           3,454|  82,284|
+|Farm     |Subtotal                             |  78,742|            267|            78,475| 253,076|    96|       72,740|           6,002| 331,914|
+|Non-farm |Professional and technical           |   9,188|            175|             9,013|   2,696|     3|        8,271|             917|  11,887|
+|Non-farm |Managers, officials, and proprietors |  15,718|            363|            15,355|   1,409|   150|       11,478|           4,240|  17,277|
+|Non-farm |Clerical and kindred                 |   8,849|            257|             8,592|     576|     3|        8,356|             493|   9,428|
+|Non-farm |Sales workers                        |  14,357|            373|            13,984|     762|    33|       12,543|           1,814|  15,152|
+|Non-farm |Craftsmen                            |  22,749|            448|            22,301|   6,906|    15|       19,035|           3,714|  29,670|
+|Non-farm |Operatives                           |  17,678|            573|            17,105|  10,591|   315|       15,399|           2,279|  28,584|
+|Non-farm |Household servants                   |   6,011|             77|             5,934|  23,780|    24|        5,278|             733|  29,815|
+|Non-farm |Other service workers                |   7,634|            206|             7,428|  16,282|    46|        6,136|           1,498|  23,962|
+|Non-farm |Laborers                             |  27,159|            551|            26,608|  57,127|    99|       23,092|           4,067|  84,385|
+|Non-farm |Subtotal                             | 129,343|          3,023|           126,320| 120,129|   688|      109,588|          19,755| 250,160|
+|Total    |Total                                | 208,085|          3,290|           204,795| 373,205|   784|      182,328|          25,757| 582,074|
+
+
+
+Table: Within-Group Percentages - River Bottom (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  11.1%|           2.5%|             11.2%|   2.8%|   4.7%|        12.1%|            4.4%|
+|Farm     |Farm tenants                         |   9.3%|           1.9%|              9.5%|  22.4%|   0.0%|        10.1%|            3.7%|
+|Farm     |Farm foremen                         |   0.1%|           0.0%|              0.1%|   0.0%|   0.0%|         0.1%|            0.0%|
+|Farm     |Farm laborers (family)               |  10.6%|           1.8%|             10.8%|  24.3%|   3.4%|        11.9%|            1.8%|
+|Farm     |Farm laborers (other)                |   6.7%|           1.9%|              6.8%|  18.3%|   4.1%|         5.7%|           13.4%|
+|Farm     |Subtotal                             |  37.8%|           8.1%|             38.3%|  67.8%|  12.2%|        39.9%|           23.3%|
+|Non-farm |Professional and technical           |   4.4%|           5.3%|              4.4%|   0.7%|   0.4%|         4.5%|            3.6%|
+|Non-farm |Managers, officials, and proprietors |   7.6%|          11.0%|              7.5%|   0.4%|  19.1%|         6.3%|           16.5%|
+|Non-farm |Clerical and kindred                 |   4.3%|           7.8%|              4.2%|   0.2%|   0.4%|         4.6%|            1.9%|
+|Non-farm |Sales workers                        |   6.9%|          11.3%|              6.8%|   0.2%|   4.2%|         6.9%|            7.0%|
+|Non-farm |Craftsmen                            |  10.9%|          13.6%|             10.9%|   1.9%|   1.9%|        10.4%|           14.4%|
+|Non-farm |Operatives                           |   8.5%|          17.4%|              8.4%|   2.8%|  40.2%|         8.4%|            8.8%|
+|Non-farm |Household servants                   |   2.9%|           2.3%|              2.9%|   6.4%|   3.1%|         2.9%|            2.8%|
+|Non-farm |Other service workers                |   3.7%|           6.3%|              3.6%|   4.4%|   5.9%|         3.4%|            5.8%|
+|Non-farm |Laborers                             |  13.1%|          16.7%|             13.0%|  15.3%|  12.6%|        12.7%|           15.8%|
+|Non-farm |Subtotal                             |  62.2%|          91.9%|             61.7%|  32.2%|  87.8%|        60.1%|           76.7%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - River Bottom (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          |  4.0%|           0.0%|              4.0%|  1.8%|  0.0%|         3.8%|            0.2%|   5.8%|
+|Farm     |Farm tenants                         |  3.3%|           0.0%|              3.3%| 14.4%|  0.0%|         3.2%|            0.2%|  17.7%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               |  3.8%|           0.0%|              3.8%| 15.6%|  0.0%|         3.7%|            0.1%|  19.4%|
+|Farm     |Farm laborers (other)                |  2.4%|           0.0%|              2.4%| 11.7%|  0.0%|         1.8%|            0.6%|  14.1%|
+|Farm     |Subtotal                             | 13.5%|           0.0%|             13.5%| 43.5%|  0.0%|        12.5%|            1.0%|  57.0%|
+|Non-farm |Professional and technical           |  1.6%|           0.0%|              1.5%|  0.5%|  0.0%|         1.4%|            0.2%|   2.0%|
+|Non-farm |Managers, officials, and proprietors |  2.7%|           0.1%|              2.6%|  0.2%|  0.0%|         2.0%|            0.7%|   3.0%|
+|Non-farm |Clerical and kindred                 |  1.5%|           0.0%|              1.5%|  0.1%|  0.0%|         1.4%|            0.1%|   1.6%|
+|Non-farm |Sales workers                        |  2.5%|           0.1%|              2.4%|  0.1%|  0.0%|         2.2%|            0.3%|   2.6%|
+|Non-farm |Craftsmen                            |  3.9%|           0.1%|              3.8%|  1.2%|  0.0%|         3.3%|            0.6%|   5.1%|
+|Non-farm |Operatives                           |  3.0%|           0.1%|              2.9%|  1.8%|  0.1%|         2.6%|            0.4%|   4.9%|
+|Non-farm |Household servants                   |  1.0%|           0.0%|              1.0%|  4.1%|  0.0%|         0.9%|            0.1%|   5.1%|
+|Non-farm |Other service workers                |  1.3%|           0.0%|              1.3%|  2.8%|  0.0%|         1.1%|            0.3%|   4.1%|
+|Non-farm |Laborers                             |  4.7%|           0.1%|              4.6%|  9.8%|  0.0%|         4.0%|            0.7%|  14.5%|
+|Non-farm |Subtotal                             | 22.2%|           0.5%|             21.7%| 20.6%|  0.1%|        18.8%|            3.4%|  43.0%|
+|Total    |Total                                | 35.7%|           0.6%|             35.2%| 64.1%|  0.1%|        31.3%|            4.4%| 100.0%|
+
+
+
+========================================================================================================================
+
+
+
+
+Table: Occupational Distribution - Eastern Hilly (occupations) - Raw Counts
+
+|section  |occupation                           |   white| white_hispanic| white_nonhispanic|   black| other| native_white| immigrant_white|     total|
+|:--------|:------------------------------------|-------:|--------------:|-----------------:|-------:|-----:|------------:|---------------:|---------:|
+|Farm     |Farm owners                          | 219,878|             31|           219,847|  21,171|   219|      218,316|           1,562|   241,268|
+|Farm     |Farm tenants                         | 130,608|             19|           130,589|  70,593|     0|      129,670|             938|   201,201|
+|Farm     |Farm foremen                         |      58|              0|                58|       3|     0|           56|               2|        61|
+|Farm     |Farm laborers (family)               | 194,809|             25|           194,784|  97,828|    65|      194,532|             277|   292,702|
+|Farm     |Farm laborers (other)                |  48,361|              5|            48,356|  36,298|    20|       48,197|             164|    84,679|
+|Farm     |Subtotal                             | 593,714|             80|           593,634| 225,893|   304|      590,771|           2,943|   819,911|
+|Non-farm |Professional and technical           |  28,035|             21|            28,014|   4,647|     2|       27,357|             678|    32,684|
+|Non-farm |Managers, officials, and proprietors |  33,367|             19|            33,348|   1,684|     6|       30,733|           2,634|    35,057|
+|Non-farm |Clerical and kindred                 |  14,140|             11|            14,129|     766|     0|       13,745|             395|    14,906|
+|Non-farm |Sales workers                        |  23,612|             25|            23,587|     774|     1|       22,381|           1,231|    24,387|
+|Non-farm |Craftsmen                            |  51,782|             37|            51,745|   9,290|     7|       48,583|           3,199|    61,079|
+|Non-farm |Operatives                           |  58,106|             28|            58,078|  29,114|    77|       55,066|           3,040|    87,297|
+|Non-farm |Household servants                   |  16,121|              8|            16,113|  40,162|    14|       15,828|             293|    56,297|
+|Non-farm |Other service workers                |  11,413|              6|            11,407|  33,121|     4|       10,736|             677|    44,538|
+|Non-farm |Laborers                             |  56,782|             22|            56,760|  69,853|    13|       55,940|             842|   126,648|
+|Non-farm |Subtotal                             | 293,358|            177|           293,181| 189,411|   124|      280,369|          12,989|   482,893|
+|Total    |Total                                | 887,072|            257|           886,815| 415,304|   428|      871,140|          15,932| 1,302,804|
+
+
+
+Table: Within-Group Percentages - Eastern Hilly (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  24.8%|          12.1%|             24.8%|   5.1%|  51.2%|        25.1%|            9.8%|
+|Farm     |Farm tenants                         |  14.7%|           7.4%|             14.7%|  17.0%|   0.0%|        14.9%|            5.9%|
+|Farm     |Farm foremen                         |   0.0%|           0.0%|              0.0%|   0.0%|   0.0%|         0.0%|            0.0%|
+|Farm     |Farm laborers (family)               |  22.0%|           9.7%|             22.0%|  23.6%|  15.2%|        22.3%|            1.7%|
+|Farm     |Farm laborers (other)                |   5.5%|           1.9%|              5.5%|   8.7%|   4.7%|         5.5%|            1.0%|
+|Farm     |Subtotal                             |  66.9%|          31.1%|             66.9%|  54.4%|  71.0%|        67.8%|           18.5%|
+|Non-farm |Professional and technical           |   3.2%|           8.2%|              3.2%|   1.1%|   0.5%|         3.1%|            4.3%|
+|Non-farm |Managers, officials, and proprietors |   3.8%|           7.4%|              3.8%|   0.4%|   1.4%|         3.5%|           16.5%|
+|Non-farm |Clerical and kindred                 |   1.6%|           4.3%|              1.6%|   0.2%|   0.0%|         1.6%|            2.5%|
+|Non-farm |Sales workers                        |   2.7%|           9.7%|              2.7%|   0.2%|   0.2%|         2.6%|            7.7%|
+|Non-farm |Craftsmen                            |   5.8%|          14.4%|              5.8%|   2.2%|   1.6%|         5.6%|           20.1%|
+|Non-farm |Operatives                           |   6.6%|          10.9%|              6.5%|   7.0%|  18.0%|         6.3%|           19.1%|
+|Non-farm |Household servants                   |   1.8%|           3.1%|              1.8%|   9.7%|   3.3%|         1.8%|            1.8%|
+|Non-farm |Other service workers                |   1.3%|           2.3%|              1.3%|   8.0%|   0.9%|         1.2%|            4.2%|
+|Non-farm |Laborers                             |   6.4%|           8.6%|              6.4%|  16.8%|   3.0%|         6.4%|            5.3%|
+|Non-farm |Subtotal                             |  33.1%|          68.9%|             33.1%|  45.6%|  29.0%|        32.2%|           81.5%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - Eastern Hilly (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          | 16.9%|           0.0%|             16.9%|  1.6%|  0.0%|        16.8%|            0.1%|  18.5%|
+|Farm     |Farm tenants                         | 10.0%|           0.0%|             10.0%|  5.4%|  0.0%|        10.0%|            0.1%|  15.4%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               | 15.0%|           0.0%|             15.0%|  7.5%|  0.0%|        14.9%|            0.0%|  22.5%|
+|Farm     |Farm laborers (other)                |  3.7%|           0.0%|              3.7%|  2.8%|  0.0%|         3.7%|            0.0%|   6.5%|
+|Farm     |Subtotal                             | 45.6%|           0.0%|             45.6%| 17.3%|  0.0%|        45.3%|            0.2%|  62.9%|
+|Non-farm |Professional and technical           |  2.2%|           0.0%|              2.2%|  0.4%|  0.0%|         2.1%|            0.1%|   2.5%|
+|Non-farm |Managers, officials, and proprietors |  2.6%|           0.0%|              2.6%|  0.1%|  0.0%|         2.4%|            0.2%|   2.7%|
+|Non-farm |Clerical and kindred                 |  1.1%|           0.0%|              1.1%|  0.1%|  0.0%|         1.1%|            0.0%|   1.1%|
+|Non-farm |Sales workers                        |  1.8%|           0.0%|              1.8%|  0.1%|  0.0%|         1.7%|            0.1%|   1.9%|
+|Non-farm |Craftsmen                            |  4.0%|           0.0%|              4.0%|  0.7%|  0.0%|         3.7%|            0.2%|   4.7%|
+|Non-farm |Operatives                           |  4.5%|           0.0%|              4.5%|  2.2%|  0.0%|         4.2%|            0.2%|   6.7%|
+|Non-farm |Household servants                   |  1.2%|           0.0%|              1.2%|  3.1%|  0.0%|         1.2%|            0.0%|   4.3%|
+|Non-farm |Other service workers                |  0.9%|           0.0%|              0.9%|  2.5%|  0.0%|         0.8%|            0.1%|   3.4%|
+|Non-farm |Laborers                             |  4.4%|           0.0%|              4.4%|  5.4%|  0.0%|         4.3%|            0.1%|   9.7%|
+|Non-farm |Subtotal                             | 22.5%|           0.0%|             22.5%| 14.5%|  0.0%|        21.5%|            1.0%|  37.1%|
+|Total    |Total                                | 68.1%|           0.0%|             68.1%| 31.9%|  0.0%|        66.9%|            1.2%| 100.0%|
+
+
+
+========================================================================================================================
+
+
+
+
+Table: Occupational Distribution - Western Hilly (occupations) - Raw Counts
+
+|section  |occupation                           |   white| white_hispanic| white_nonhispanic|   black| other| native_white| immigrant_white|   total|
+|:--------|:------------------------------------|-------:|--------------:|-----------------:|-------:|-----:|------------:|---------------:|-------:|
+|Farm     |Farm owners                          | 161,999|            181|           161,818|  25,914|    65|      155,318|           6,681| 187,978|
+|Farm     |Farm tenants                         |  88,943|             98|            88,845|  60,078|     1|       85,226|           3,717| 149,022|
+|Farm     |Farm foremen                         |      42|              0|                42|       3|     0|           39|               3|      45|
+|Farm     |Farm laborers (family)               | 134,700|            226|           134,474|  78,745|    34|      132,456|           2,244| 213,479|
+|Farm     |Farm laborers (other)                |  25,198|            286|            24,912|  26,742|    29|       24,560|             638|  51,969|
+|Farm     |Subtotal                             | 410,882|            791|           410,091| 191,482|   129|      397,599|          13,283| 602,493|
+|Non-farm |Professional and technical           |  18,361|             25|            18,336|   2,868|     5|       17,694|             667|  21,234|
+|Non-farm |Managers, officials, and proprietors |  18,945|             38|            18,907|     720|    14|       17,194|           1,751|  19,679|
+|Non-farm |Clerical and kindred                 |   5,742|              8|             5,734|     227|     0|        5,509|             233|   5,969|
+|Non-farm |Sales workers                        |  10,874|              6|            10,868|     238|     1|       10,357|             517|  11,113|
+|Non-farm |Craftsmen                            |  22,792|             59|            22,733|   2,147|     5|       20,520|           2,272|  24,944|
+|Non-farm |Operatives                           |  21,549|             90|            21,459|   5,309|    34|       20,407|           1,142|  26,892|
+|Non-farm |Household servants                   |   9,438|             18|             9,420|  12,792|     4|        9,106|             332|  22,234|
+|Non-farm |Other service workers                |   6,800|             23|             6,777|  10,550|     6|        6,299|             501|  17,356|
+|Non-farm |Laborers                             |  39,320|            402|            38,918|  32,692|    21|       37,565|           1,755|  72,033|
+|Non-farm |Subtotal                             | 153,821|            669|           153,152|  67,543|    90|      144,651|           9,170| 221,454|
+|Total    |Total                                | 564,703|          1,460|           563,243| 259,025|   219|      542,250|          22,453| 823,947|
+
+
+
+Table: Within-Group Percentages - Western Hilly (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  28.7%|          12.4%|             28.7%|  10.0%|  29.7%|        28.6%|           29.8%|
+|Farm     |Farm tenants                         |  15.8%|           6.7%|             15.8%|  23.2%|   0.5%|        15.7%|           16.6%|
+|Farm     |Farm foremen                         |   0.0%|           0.0%|              0.0%|   0.0%|   0.0%|         0.0%|            0.0%|
+|Farm     |Farm laborers (family)               |  23.9%|          15.5%|             23.9%|  30.4%|  15.5%|        24.4%|           10.0%|
+|Farm     |Farm laborers (other)                |   4.5%|          19.6%|              4.4%|  10.3%|  13.2%|         4.5%|            2.8%|
+|Farm     |Subtotal                             |  72.8%|          54.2%|             72.8%|  73.9%|  58.9%|        73.3%|           59.2%|
+|Non-farm |Professional and technical           |   3.3%|           1.7%|              3.3%|   1.1%|   2.3%|         3.3%|            3.0%|
+|Non-farm |Managers, officials, and proprietors |   3.4%|           2.6%|              3.4%|   0.3%|   6.4%|         3.2%|            7.8%|
+|Non-farm |Clerical and kindred                 |   1.0%|           0.5%|              1.0%|   0.1%|   0.0%|         1.0%|            1.0%|
+|Non-farm |Sales workers                        |   1.9%|           0.4%|              1.9%|   0.1%|   0.5%|         1.9%|            2.3%|
+|Non-farm |Craftsmen                            |   4.0%|           4.0%|              4.0%|   0.8%|   2.3%|         3.8%|           10.1%|
+|Non-farm |Operatives                           |   3.8%|           6.2%|              3.8%|   2.0%|  15.5%|         3.8%|            5.1%|
+|Non-farm |Household servants                   |   1.7%|           1.2%|              1.7%|   4.9%|   1.8%|         1.7%|            1.5%|
+|Non-farm |Other service workers                |   1.2%|           1.6%|              1.2%|   4.1%|   2.7%|         1.2%|            2.2%|
+|Non-farm |Laborers                             |   7.0%|          27.5%|              6.9%|  12.6%|   9.6%|         6.9%|            7.8%|
+|Non-farm |Subtotal                             |  27.2%|          45.8%|             27.2%|  26.1%|  41.1%|        26.7%|           40.8%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - Western Hilly (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          | 19.7%|           0.0%|             19.6%|  3.1%|  0.0%|        18.9%|            0.8%|  22.8%|
+|Farm     |Farm tenants                         | 10.8%|           0.0%|             10.8%|  7.3%|  0.0%|        10.3%|            0.5%|  18.1%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               | 16.3%|           0.0%|             16.3%|  9.6%|  0.0%|        16.1%|            0.3%|  25.9%|
+|Farm     |Farm laborers (other)                |  3.1%|           0.0%|              3.0%|  3.2%|  0.0%|         3.0%|            0.1%|   6.3%|
+|Farm     |Subtotal                             | 49.9%|           0.1%|             49.8%| 23.2%|  0.0%|        48.3%|            1.6%|  73.1%|
+|Non-farm |Professional and technical           |  2.2%|           0.0%|              2.2%|  0.3%|  0.0%|         2.1%|            0.1%|   2.6%|
+|Non-farm |Managers, officials, and proprietors |  2.3%|           0.0%|              2.3%|  0.1%|  0.0%|         2.1%|            0.2%|   2.4%|
+|Non-farm |Clerical and kindred                 |  0.7%|           0.0%|              0.7%|  0.0%|  0.0%|         0.7%|            0.0%|   0.7%|
+|Non-farm |Sales workers                        |  1.3%|           0.0%|              1.3%|  0.0%|  0.0%|         1.3%|            0.1%|   1.3%|
+|Non-farm |Craftsmen                            |  2.8%|           0.0%|              2.8%|  0.3%|  0.0%|         2.5%|            0.3%|   3.0%|
+|Non-farm |Operatives                           |  2.6%|           0.0%|              2.6%|  0.6%|  0.0%|         2.5%|            0.1%|   3.3%|
+|Non-farm |Household servants                   |  1.1%|           0.0%|              1.1%|  1.6%|  0.0%|         1.1%|            0.0%|   2.7%|
+|Non-farm |Other service workers                |  0.8%|           0.0%|              0.8%|  1.3%|  0.0%|         0.8%|            0.1%|   2.1%|
+|Non-farm |Laborers                             |  4.8%|           0.0%|              4.7%|  4.0%|  0.0%|         4.6%|            0.2%|   8.7%|
+|Non-farm |Subtotal                             | 18.7%|           0.1%|             18.6%|  8.2%|  0.0%|        17.6%|            1.1%|  26.9%|
+|Total    |Total                                | 68.5%|           0.2%|             68.4%| 31.4%|  0.0%|        65.8%|            2.7%| 100.0%|
+
+
+
+========================================================================================================================
+
+
+
+
+Table: Occupational Distribution - Western Prairie (occupations) - Raw Counts
+
+|section  |occupation                           |   white| white_hispanic| white_nonhispanic|   black| other| native_white| immigrant_white|   total|
+|:--------|:------------------------------------|-------:|--------------:|-----------------:|-------:|-----:|------------:|---------------:|-------:|
+|Farm     |Farm owners                          |  74,167|          1,478|            72,689|   7,395|    28|       65,970|           8,197|  81,590|
+|Farm     |Farm tenants                         |  81,790|          1,531|            80,259|  18,419|     0|       72,751|           9,039| 100,209|
+|Farm     |Farm foremen                         |      45|              3|                42|       4|     0|           42|               3|      49|
+|Farm     |Farm laborers (family)               |  80,555|          2,379|            78,176|  20,456|    39|       76,111|           4,444| 101,050|
+|Farm     |Farm laborers (other)                |  21,253|          3,801|            17,452|  12,668|     3|       18,188|           3,065|  33,924|
+|Farm     |Subtotal                             | 257,810|          9,192|           248,618|  58,942|    70|      233,062|          24,748| 316,822|
+|Non-farm |Professional and technical           |  20,098|            244|            19,854|   2,364|     4|       18,423|           1,675|  22,466|
+|Non-farm |Managers, officials, and proprietors |  25,882|            304|            25,578|     748|    63|       21,340|           4,542|  26,693|
+|Non-farm |Clerical and kindred                 |  10,891|             90|            10,801|     256|     2|       10,143|             748|  11,149|
+|Non-farm |Sales workers                        |  17,812|            270|            17,542|     289|     4|       15,913|           1,899|  18,105|
+|Non-farm |Craftsmen                            |  31,706|            619|            31,087|   1,826|     7|       25,859|           5,847|  33,539|
+|Non-farm |Operatives                           |  19,856|            703|            19,153|   5,290|   138|       17,279|           2,577|  25,284|
+|Non-farm |Household servants                   |   7,714|            667|             7,047|  16,998|     9|        6,439|           1,275|  24,721|
+|Non-farm |Other service workers                |  10,751|            518|            10,233|  12,431|    68|        8,658|           2,093|  23,250|
+|Non-farm |Laborers                             |  32,680|          5,370|            27,310|  26,959|    26|       25,791|           6,889|  59,665|
+|Non-farm |Subtotal                             | 177,390|          8,785|           168,605|  67,161|   321|      149,845|          27,545| 244,872|
+|Total    |Total                                | 435,200|         17,977|           417,223| 126,103|   391|      382,907|          52,293| 561,694|
+
+
+
+Table: Within-Group Percentages - Western Prairie (occupations)
+
+|section  |occupation                           |  white| white_hispanic| white_nonhispanic|  black|  other| native_white| immigrant_white|
+|:--------|:------------------------------------|------:|--------------:|-----------------:|------:|------:|------------:|---------------:|
+|Farm     |Farm owners                          |  17.0%|           8.2%|             17.4%|   5.9%|   7.2%|        17.2%|           15.7%|
+|Farm     |Farm tenants                         |  18.8%|           8.5%|             19.2%|  14.6%|   0.0%|        19.0%|           17.3%|
+|Farm     |Farm foremen                         |   0.0%|           0.0%|              0.0%|   0.0%|   0.0%|         0.0%|            0.0%|
+|Farm     |Farm laborers (family)               |  18.5%|          13.2%|             18.7%|  16.2%|  10.0%|        19.9%|            8.5%|
+|Farm     |Farm laborers (other)                |   4.9%|          21.1%|              4.2%|  10.0%|   0.8%|         4.7%|            5.9%|
+|Farm     |Subtotal                             |  59.2%|          51.1%|             59.6%|  46.7%|  17.9%|        60.9%|           47.3%|
+|Non-farm |Professional and technical           |   4.6%|           1.4%|              4.8%|   1.9%|   1.0%|         4.8%|            3.2%|
+|Non-farm |Managers, officials, and proprietors |   5.9%|           1.7%|              6.1%|   0.6%|  16.1%|         5.6%|            8.7%|
+|Non-farm |Clerical and kindred                 |   2.5%|           0.5%|              2.6%|   0.2%|   0.5%|         2.6%|            1.4%|
+|Non-farm |Sales workers                        |   4.1%|           1.5%|              4.2%|   0.2%|   1.0%|         4.2%|            3.6%|
+|Non-farm |Craftsmen                            |   7.3%|           3.4%|              7.5%|   1.4%|   1.8%|         6.8%|           11.2%|
+|Non-farm |Operatives                           |   4.6%|           3.9%|              4.6%|   4.2%|  35.3%|         4.5%|            4.9%|
+|Non-farm |Household servants                   |   1.8%|           3.7%|              1.7%|  13.5%|   2.3%|         1.7%|            2.4%|
+|Non-farm |Other service workers                |   2.5%|           2.9%|              2.5%|   9.9%|  17.4%|         2.3%|            4.0%|
+|Non-farm |Laborers                             |   7.5%|          29.9%|              6.5%|  21.4%|   6.6%|         6.7%|           13.2%|
+|Non-farm |Subtotal                             |  40.8%|          48.9%|             40.4%|  53.3%|  82.1%|        39.1%|           52.7%|
+|Total    |Total                                | 100.0%|         100.0%|            100.0%| 100.0%| 100.0%|       100.0%|          100.0%|
+
+
+
+Table: Total Percentages - Western Prairie (occupations)
+
+|section  |occupation                           | white| white_hispanic| white_nonhispanic| black| other| native_white| immigrant_white|  total|
+|:--------|:------------------------------------|-----:|--------------:|-----------------:|-----:|-----:|------------:|---------------:|------:|
+|Farm     |Farm owners                          | 13.2%|           0.3%|             12.9%|  1.3%|  0.0%|        11.7%|            1.5%|  14.5%|
+|Farm     |Farm tenants                         | 14.6%|           0.3%|             14.3%|  3.3%|  0.0%|        13.0%|            1.6%|  17.8%|
+|Farm     |Farm foremen                         |  0.0%|           0.0%|              0.0%|  0.0%|  0.0%|         0.0%|            0.0%|   0.0%|
+|Farm     |Farm laborers (family)               | 14.3%|           0.4%|             13.9%|  3.6%|  0.0%|        13.6%|            0.8%|  18.0%|
+|Farm     |Farm laborers (other)                |  3.8%|           0.7%|              3.1%|  2.3%|  0.0%|         3.2%|            0.5%|   6.0%|
+|Farm     |Subtotal                             | 45.9%|           1.6%|             44.3%| 10.5%|  0.0%|        41.5%|            4.4%|  56.4%|
+|Non-farm |Professional and technical           |  3.6%|           0.0%|              3.5%|  0.4%|  0.0%|         3.3%|            0.3%|   4.0%|
+|Non-farm |Managers, officials, and proprietors |  4.6%|           0.1%|              4.6%|  0.1%|  0.0%|         3.8%|            0.8%|   4.8%|
+|Non-farm |Clerical and kindred                 |  1.9%|           0.0%|              1.9%|  0.0%|  0.0%|         1.8%|            0.1%|   2.0%|
+|Non-farm |Sales workers                        |  3.2%|           0.0%|              3.1%|  0.1%|  0.0%|         2.8%|            0.3%|   3.2%|
+|Non-farm |Craftsmen                            |  5.6%|           0.1%|              5.5%|  0.3%|  0.0%|         4.6%|            1.0%|   6.0%|
+|Non-farm |Operatives                           |  3.5%|           0.1%|              3.4%|  0.9%|  0.0%|         3.1%|            0.5%|   4.5%|
+|Non-farm |Household servants                   |  1.4%|           0.1%|              1.3%|  3.0%|  0.0%|         1.1%|            0.2%|   4.4%|
+|Non-farm |Other service workers                |  1.9%|           0.1%|              1.8%|  2.2%|  0.0%|         1.5%|            0.4%|   4.1%|
+|Non-farm |Laborers                             |  5.8%|           1.0%|              4.9%|  4.8%|  0.0%|         4.6%|            1.2%|  10.6%|
+|Non-farm |Subtotal                             | 31.6%|           1.6%|             30.0%| 12.0%|  0.1%|        26.7%|            4.9%|  43.6%|
+|Total    |Total                                | 77.5%|           3.2%|             74.3%| 22.5%|  0.1%|        68.2%|            9.3%| 100.0%|
+

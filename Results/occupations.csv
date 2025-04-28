@@ -1,0 +1,120 @@
+"region","section","occupation","white","white_hispanic","white_nonhispanic","black","other","native_white","immigrant_white","total"
+"All Cotton Belt","Farm","Farm owners",773124,2207,770917,151059,1199,751502,21622,925382
+"All Cotton Belt","Farm","Farm tenants",494651,1410,493241,546477,1,480676,13975,1041129
+"All Cotton Belt","Farm","Farm foremen",538,4,534,105,0,515,23,643
+"All Cotton Belt","Farm","Farm laborers (family)",713367,2751,710616,751547,1168,705575,7792,1466082
+"All Cotton Belt","Farm","Farm laborers (other)",170303,4178,166125,416753,501,162699,7604,587557
+"All Cotton Belt","Farm","Subtotal",2151983,10550,2141433,1865941,2869,2100967,51016,4020793
+"All Cotton Belt","Non-farm","Professional and technical",121588,565,121023,27710,28,116354,5234,149326
+"All Cotton Belt","Non-farm","Managers, officials, and proprietors",156630,929,155701,10882,270,138156,18474,167782
+"All Cotton Belt","Non-farm","Clerical and kindred",65489,470,65019,4613,10,62924,2565,70112
+"All Cotton Belt","Non-farm","Sales workers",108732,794,107938,5068,61,101295,7437,113861
+"All Cotton Belt","Non-farm","Craftsmen",207642,1386,206256,52243,47,187999,19643,259932
+"All Cotton Belt","Non-farm","Operatives",239061,1628,237433,105752,947,228017,11044,345760
+"All Cotton Belt","Non-farm","Household servants",63119,805,62314,215548,85,60035,3084,278752
+"All Cotton Belt","Non-farm","Other service workers",57515,825,56690,158816,143,51611,5904,216474
+"All Cotton Belt","Non-farm","Laborers",237856,6620,231236,468128,404,222410,15446,706388
+"All Cotton Belt","Non-farm","Subtotal",1257632,14022,1243610,1048760,1995,1168801,88831,2308387
+"All Cotton Belt","Total","Total",3409615,24572,3385043,2914701,4864,3269768,139847,6329180
+"Piedmont","Farm","Farm owners",122980,15,122965,21649,19,122257,723,144648
+"Piedmont","Farm","Farm tenants",96492,11,96481,103853,0,95918,574,200345
+"Piedmont","Farm","Farm foremen",70,0,70,9,0,70,0,79
+"Piedmont","Farm","Farm laborers (family)",134934,14,134920,148979,3,134778,156,283916
+"Piedmont","Farm","Farm laborers (other)",28141,2,28139,90315,2,28055,86,118458
+"Piedmont","Farm","Subtotal",382617,42,382575,364805,24,381078,1539,747446
+"Piedmont","Non-farm","Professional and technical",20552,24,20528,5430,2,20096,456,25984
+"Piedmont","Non-farm","Managers, officials, and proprietors",27165,17,27148,2110,0,25745,1420,29275
+"Piedmont","Non-farm","Clerical and kindred",11684,12,11672,1005,3,11454,230,12692
+"Piedmont","Non-farm","Sales workers",18648,21,18627,942,9,18015,633,19599
+"Piedmont","Non-farm","Craftsmen",38723,38,38685,11866,0,37252,1471,50589
+"Piedmont","Non-farm","Operatives",81631,41,81590,20645,137,80946,685,102413
+"Piedmont","Non-farm","Household servants",10438,5,10433,50705,6,10329,109,61149
+"Piedmont","Non-farm","Other service workers",9804,3,9801,36314,5,9538,266,46123
+"Piedmont","Non-farm","Laborers",26081,12,26069,84547,0,25837,244,110628
+"Piedmont","Non-farm","Subtotal",244726,173,244553,213564,162,239212,5514,458452
+"Piedmont","Total","Total",627343,215,627128,578369,186,620290,7053,1205898
+"Coastal Plain","Farm","Farm owners",169863,75,169788,64547,831,168446,1417,235241
+"Coastal Plain","Farm","Farm tenants",78519,35,78484,209745,0,77841,678,288264
+"Coastal Plain","Farm","Farm foremen",181,0,181,47,0,174,7,228
+"Coastal Plain","Farm","Farm laborers (family)",146210,48,146162,315021,1000,146008,202,462231
+"Coastal Plain","Farm","Farm laborers (other)",33445,20,33425,182383,415,33248,197,216243
+"Coastal Plain","Farm","Subtotal",428218,178,428040,771743,2246,425717,2501,1202207
+"Coastal Plain","Non-farm","Professional and technical",25354,76,25278,9705,12,24513,841,35071
+"Coastal Plain","Non-farm","Managers, officials, and proprietors",35553,188,35365,4211,37,31666,3887,39801
+"Coastal Plain","Non-farm","Clerical and kindred",14183,92,14091,1783,2,13717,466,15968
+"Coastal Plain","Non-farm","Sales workers",23429,99,23330,2063,13,22086,1343,25505
+"Coastal Plain","Non-farm","Craftsmen",39890,185,39705,20208,13,36750,3140,60111
+"Coastal Plain","Non-farm","Operatives",40241,193,40048,34803,246,38920,1321,75290
+"Coastal Plain","Non-farm","Household servants",13397,30,13367,71111,28,13055,342,84536
+"Coastal Plain","Non-farm","Other service workers",11113,69,11044,50118,14,10244,869,61245
+"Coastal Plain","Non-farm","Laborers",55834,263,55571,196950,245,54185,1649,253029
+"Coastal Plain","Non-farm","Subtotal",258994,1195,257799,390952,610,245136,13858,650556
+"Coastal Plain","Total","Total",687212,1373,685839,1162695,2856,670853,16359,1852763
+"River Bottom","Farm","Farm owners",23104,81,23023,10618,37,21978,1126,33759
+"River Bottom","Farm","Farm tenants",19432,62,19370,83554,0,18487,945,102986
+"River Bottom","Farm","Farm foremen",142,1,141,39,0,134,8,181
+"River Bottom","Farm","Farm laborers (family)",22159,59,22100,90518,27,21690,469,112704
+"River Bottom","Farm","Farm laborers (other)",13905,64,13841,68347,32,10451,3454,82284
+"River Bottom","Farm","Subtotal",78742,267,78475,253076,96,72740,6002,331914
+"River Bottom","Non-farm","Professional and technical",9188,175,9013,2696,3,8271,917,11887
+"River Bottom","Non-farm","Managers, officials, and proprietors",15718,363,15355,1409,150,11478,4240,17277
+"River Bottom","Non-farm","Clerical and kindred",8849,257,8592,576,3,8356,493,9428
+"River Bottom","Non-farm","Sales workers",14357,373,13984,762,33,12543,1814,15152
+"River Bottom","Non-farm","Craftsmen",22749,448,22301,6906,15,19035,3714,29670
+"River Bottom","Non-farm","Operatives",17678,573,17105,10591,315,15399,2279,28584
+"River Bottom","Non-farm","Household servants",6011,77,5934,23780,24,5278,733,29815
+"River Bottom","Non-farm","Other service workers",7634,206,7428,16282,46,6136,1498,23962
+"River Bottom","Non-farm","Laborers",27159,551,26608,57127,99,23092,4067,84385
+"River Bottom","Non-farm","Subtotal",129343,3023,126320,120129,688,109588,19755,250160
+"River Bottom","Total","Total",208085,3290,204795,373205,784,182328,25757,582074
+"Eastern Hilly","Farm","Farm owners",219878,31,219847,21171,219,218316,1562,241268
+"Eastern Hilly","Farm","Farm tenants",130608,19,130589,70593,0,129670,938,201201
+"Eastern Hilly","Farm","Farm foremen",58,0,58,3,0,56,2,61
+"Eastern Hilly","Farm","Farm laborers (family)",194809,25,194784,97828,65,194532,277,292702
+"Eastern Hilly","Farm","Farm laborers (other)",48361,5,48356,36298,20,48197,164,84679
+"Eastern Hilly","Farm","Subtotal",593714,80,593634,225893,304,590771,2943,819911
+"Eastern Hilly","Non-farm","Professional and technical",28035,21,28014,4647,2,27357,678,32684
+"Eastern Hilly","Non-farm","Managers, officials, and proprietors",33367,19,33348,1684,6,30733,2634,35057
+"Eastern Hilly","Non-farm","Clerical and kindred",14140,11,14129,766,0,13745,395,14906
+"Eastern Hilly","Non-farm","Sales workers",23612,25,23587,774,1,22381,1231,24387
+"Eastern Hilly","Non-farm","Craftsmen",51782,37,51745,9290,7,48583,3199,61079
+"Eastern Hilly","Non-farm","Operatives",58106,28,58078,29114,77,55066,3040,87297
+"Eastern Hilly","Non-farm","Household servants",16121,8,16113,40162,14,15828,293,56297
+"Eastern Hilly","Non-farm","Other service workers",11413,6,11407,33121,4,10736,677,44538
+"Eastern Hilly","Non-farm","Laborers",56782,22,56760,69853,13,55940,842,126648
+"Eastern Hilly","Non-farm","Subtotal",293358,177,293181,189411,124,280369,12989,482893
+"Eastern Hilly","Total","Total",887072,257,886815,415304,428,871140,15932,1302804
+"Western Hilly","Farm","Farm owners",161999,181,161818,25914,65,155318,6681,187978
+"Western Hilly","Farm","Farm tenants",88943,98,88845,60078,1,85226,3717,149022
+"Western Hilly","Farm","Farm foremen",42,0,42,3,0,39,3,45
+"Western Hilly","Farm","Farm laborers (family)",134700,226,134474,78745,34,132456,2244,213479
+"Western Hilly","Farm","Farm laborers (other)",25198,286,24912,26742,29,24560,638,51969
+"Western Hilly","Farm","Subtotal",410882,791,410091,191482,129,397599,13283,602493
+"Western Hilly","Non-farm","Professional and technical",18361,25,18336,2868,5,17694,667,21234
+"Western Hilly","Non-farm","Managers, officials, and proprietors",18945,38,18907,720,14,17194,1751,19679
+"Western Hilly","Non-farm","Clerical and kindred",5742,8,5734,227,0,5509,233,5969
+"Western Hilly","Non-farm","Sales workers",10874,6,10868,238,1,10357,517,11113
+"Western Hilly","Non-farm","Craftsmen",22792,59,22733,2147,5,20520,2272,24944
+"Western Hilly","Non-farm","Operatives",21549,90,21459,5309,34,20407,1142,26892
+"Western Hilly","Non-farm","Household servants",9438,18,9420,12792,4,9106,332,22234
+"Western Hilly","Non-farm","Other service workers",6800,23,6777,10550,6,6299,501,17356
+"Western Hilly","Non-farm","Laborers",39320,402,38918,32692,21,37565,1755,72033
+"Western Hilly","Non-farm","Subtotal",153821,669,153152,67543,90,144651,9170,221454
+"Western Hilly","Total","Total",564703,1460,563243,259025,219,542250,22453,823947
+"Western Prairie","Farm","Farm owners",74167,1478,72689,7395,28,65970,8197,81590
+"Western Prairie","Farm","Farm tenants",81790,1531,80259,18419,0,72751,9039,100209
+"Western Prairie","Farm","Farm foremen",45,3,42,4,0,42,3,49
+"Western Prairie","Farm","Farm laborers (family)",80555,2379,78176,20456,39,76111,4444,101050
+"Western Prairie","Farm","Farm laborers (other)",21253,3801,17452,12668,3,18188,3065,33924
+"Western Prairie","Farm","Subtotal",257810,9192,248618,58942,70,233062,24748,316822
+"Western Prairie","Non-farm","Professional and technical",20098,244,19854,2364,4,18423,1675,22466
+"Western Prairie","Non-farm","Managers, officials, and proprietors",25882,304,25578,748,63,21340,4542,26693
+"Western Prairie","Non-farm","Clerical and kindred",10891,90,10801,256,2,10143,748,11149
+"Western Prairie","Non-farm","Sales workers",17812,270,17542,289,4,15913,1899,18105
+"Western Prairie","Non-farm","Craftsmen",31706,619,31087,1826,7,25859,5847,33539
+"Western Prairie","Non-farm","Operatives",19856,703,19153,5290,138,17279,2577,25284
+"Western Prairie","Non-farm","Household servants",7714,667,7047,16998,9,6439,1275,24721
+"Western Prairie","Non-farm","Other service workers",10751,518,10233,12431,68,8658,2093,23250
+"Western Prairie","Non-farm","Laborers",32680,5370,27310,26959,26,25791,6889,59665
+"Western Prairie","Non-farm","Subtotal",177390,8785,168605,67161,321,149845,27545,244872
+"Western Prairie","Total","Total",435200,17977,417223,126103,391,382907,52293,561694
